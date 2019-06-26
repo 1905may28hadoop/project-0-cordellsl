@@ -25,5 +25,17 @@
 
 ## Reminder
 * Stick to the requirements, don't go overboard with extra features and if you do have extra features, make sure the main requirements are met.
-* It is *not* mandatory to follow the package structure provided in this project, however, I totally recommend you to try to follow it because this is the way that you develop following the *single responsibility principle*, and the way that we are going to code for the rest of the training.
+* It is *not* mandatory to follow the package structure provided in this project, however, I totally recommend you to try to follow it because this is the way that you 
+  develop following the *single responsibility principle*, and the way that we are going to code for the rest of the training.
    * If it becomes to hard for you to follow a modular approach for this project, use your own.
+
+
+Make a new SQL connection - BigBANK
+- user 
+	- username
+	- password
+	- account number
+- bank account 
+- transactions
+	- withraw
+	- deposit  amount, account 
